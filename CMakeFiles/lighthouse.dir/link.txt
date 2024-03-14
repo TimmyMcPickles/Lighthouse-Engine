@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lighthouse.dir/main.cpp.o -o lighthouse 
