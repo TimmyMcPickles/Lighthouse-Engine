@@ -1,3 +1,0 @@
-C:/lighthouse/build/CMakeFiles/lighthouse.dir
-C:/lighthouse/build/CMakeFiles/ALL_BUILD.dir
-C:/lighthouse/build/CMakeFiles/ZERO_CHECK.dir
